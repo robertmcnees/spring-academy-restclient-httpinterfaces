@@ -16,4 +16,9 @@ public class HttpUsersApplication {
 		SpringApplication.run(HttpUsersApplication.class, args);
 	}
 
+
+	// add UserHttpClient Bean
+
+
+
 }

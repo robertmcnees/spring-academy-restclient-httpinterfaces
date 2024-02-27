@@ -7,4 +7,8 @@ import org.springframework.web.service.annotation.GetExchange;
 
 public interface UserHttpClient {
 
+	// add findAll and findById
+
+
+
 }

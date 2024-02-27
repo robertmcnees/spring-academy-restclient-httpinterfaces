@@ -9,4 +9,11 @@ import org.springframework.web.client.RestClient;
 @Component
 public class UserRestClient {
 
+	// add the RestClient variable and constructor
+
+
+	// add findAll and findById
+
+
+
 }

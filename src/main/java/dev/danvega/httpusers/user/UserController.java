@@ -11,4 +11,14 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/users")
 public class UserController {
 
+	// add new variable and constructor for UserRestClient
+
+
+	// add findAll endpoint
+
+
+	// add findById endpoint
+
+
+
 }

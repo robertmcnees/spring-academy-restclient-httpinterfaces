@@ -14,11 +14,7 @@ public class UserController {
 	// add new variable and constructor for UserRestClient
 
 
-	// add findAll endpoint
-
-
-	// add findById endpoint
-
+	// add findAll and findById endpoints
 
 
 }
